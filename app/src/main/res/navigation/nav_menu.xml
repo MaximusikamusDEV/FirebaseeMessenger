@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_menu"
+    app:startDestination="@id/ContactItem">
+    <fragment
+        android:id="@+id/ContactItem"
+        android:name="com.example.labuniversity.Fragments.ContactsFragment"
+        android:label="Контакты"
+        tools:layout="@layout/fragment_contacts" >
+    </fragment>
+</navigation>

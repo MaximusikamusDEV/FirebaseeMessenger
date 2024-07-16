@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "385607898148",
+    "firebase_url": "https://universtylabchat-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "universtylabchat",
+    "storage_bucket": "universtylabchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385607898148:android:50a65033a2b7545dcd74b1",
+        "android_client_info": {
+          "package_name": "com.example.labuniversity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAXOnBxadog6veA2LNAh3FSkkwtZ0zv_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
